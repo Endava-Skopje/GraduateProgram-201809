@@ -1,3 +1,3 @@
-NAME:Tamara Stankovska EMAIL:stankovskatamara23@yahoo.com ACC:https://github.com/TamaraStankovska 
+NAME:Tamara Stankovska  ACC:https://github.com/TamaraStankovska 
 
-NAME:Tamara Stankovska EMAIL:stankovskatamara23@yahoo.com REPO:https://github.com/TamaraStankovska/svs-talent
+NAME:Tamara Stankovska  REPO:https://github.com/TamaraStankovska/svs-talent
